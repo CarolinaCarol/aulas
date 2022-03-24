@@ -1,17 +1,17 @@
-codigo:
 
-const in led = 2;
+
+const int led = 2;
 
 void setup()  
-)
-  pinMODE(led, OUTPUT);
-)
+{
+  pinMode(led, OUTPUT);
+}
   
 void loop()
 {
-  DIGITALwRITE(LED, high);
-  DELAY(500);
+  digitalWrite(led, HIGH);
+  delay(500);
   digitalWrite(led, LOW);
   delay(500);
-)
+}
  
