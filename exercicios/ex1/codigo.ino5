@@ -1,0 +1,10 @@
+const into botão = 1;
+const into ledVm = 2;
+
+void seput()
+{
+  pinMode(botão, INPUT);
+  {
+    delay(1)
+  }
+  pinMode(ledVm, OUTPUT);
