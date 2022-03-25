@@ -1,0 +1,33 @@
+const into ledVm = 1;
+const into ledVm = 2;
+const into ledVm = 3;
+const into ledVm = 4;
+const into ledVm = 5;
+
+void setup()
+{
+  var =  digitalRead (1);
+  pinMode (ledVm, OUTPUT);
+  (2)
+  pinMode (ledVm, INPUT);
+}
+  var = digitalRead (2);
+  pinMode (ledVm, OUTPUT);
+  (2)
+  pinMode (ledVm, INPUT);
+{
+  var = digitalRead (3);
+  pinMode (ledVm, OUTPUT);
+   (2)
+  pinMode (ledVm, INPUT);
+}
+  var = digitalRead (4);
+  pinMode (ledVm, OUTPUT);
+   (2)
+  pinMode (ledVm, INPUT)
+{
+  var = digitalRead (5);
+  pinMode (ledVm, OUTPUT);
+   (2)
+  pinMode (ledVm, INPUT);
+}
