@@ -1,8 +1,0 @@
-const into botão = 1;
-const into ledVm = 2;
-
-void seput()
-{
-  pinMode(botão, INPUT);
-  pinMode(ledVm, INPUT);
-}
