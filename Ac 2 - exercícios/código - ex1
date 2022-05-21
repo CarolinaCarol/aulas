@@ -1,0 +1,17 @@
+Código exercício 1
+
+const int = led;
+
+void setup()
+{
+  pinmMode(led, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(led, HIGH);
+  delay(1000);
+  digitalWrite(led1, LOW);
+  delay(1000);
+}
+  
