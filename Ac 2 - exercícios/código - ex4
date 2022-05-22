@@ -1,0 +1,19 @@
+Código - exercício 4
+
+const int led = 1;
+
+
+void setup()
+{
+  pinMode(led, OUTPUT);
+  
+}
+
+void loop()
+
+{
+  digitalWrite(led, HIGH);
+  delay(500);
+ 
+}
+  
