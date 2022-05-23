@@ -1,0 +1,31 @@
+Código exercício 7 
+
+const int botão = 1;
+const int botão = 2;
+const int botão = 3;
+const int botão = 4;
+const int botão = 5;
+const int botão = 6;
+const int botão = 7;
+
+void seput()
+{
+ pinMode(botão1, OUPUT);
+ pinMode(botão2, OUPUT);
+ pinMode(botão3, OUTPUT);
+ pinMode(botão4, OUTPUT); 
+ pinMode(botão5, OUTPUT);
+ pinMode(botão6, OUTPUT);
+ pinMode(botão7, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(botão1, HIGH);
+  digitalWrite(botão2, HIGH);
+  digitalWrite(botão3, HIGH);
+  digitalWrite(botão4, HIHG);
+  digitalWrite(botão5, HIGH);
+  digitalWrite(botão6, HIGH);
+  digitalWrite(botão7, HIGH);
+}
